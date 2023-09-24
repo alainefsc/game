@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('imagens/galaxy.jpg');
+  }
+  
+  .container {
+    margin: 0 auto;
+    width: 300px;
+    padding: 20px;
+    background-color: #8c24b6;
+    border-radius: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+  }
+  
+  #message {
+    font-weight: bold;
+  }
+  footer {
+    font-family: Arial, sans-serif;
+    text-align: center; 
+    color: beige;
+}
